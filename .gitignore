@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.idea
+.DS_Store
+log
+cache/
+# .vscode  # 注释掉，允许用户级配置文件
+.cursor/*
+.cursorignore
+.vscode
+
