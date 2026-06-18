@@ -1,4 +1,4 @@
-VENV :=/Users/joannayang/wenda/my_agent_314/venv
+VENV :=your_path/my_agent_314/venv
 PYTHON := $(VENV)/bin/python3.14
 PIP := $(VENV)/bin/pip3.14
 UVICORN := $(VENV)/bin/uvicorn
